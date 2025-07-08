@@ -62,3 +62,5 @@ Full documentation is included in the Documentation.docx file, covering:
 - Specification (pre and post conditions with analogy)
 - Algorithm
 - Tests (black box testing)
+
+## Made with ❤️ by Mohammad Alzaghal
